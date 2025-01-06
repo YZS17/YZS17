@@ -1,14 +1,5 @@
 - 👋 Hi, I’m XU17
-- 👀 I’m interested in
-  - >Web Security🔒
-  - >Bug Hunter🔎
-  - >CTF🚩
-- 🌱 I’m currently learning
-  - School
-- 📫 How to reach me
-  - Email：1944118663@qq.com
-
--  > [MY BLOG](https://yzs17.github.io)
+-  > [MY BLOG](https://xu17.top)
   
 
 <!---
