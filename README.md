@@ -19,3 +19,5 @@
 <a>
   <img src="https://komarev.com/ghpvc/?username=YZS17&style=for-the-badge&color=green" alt="View counter">
 </a>
+
+<!-- LZCTF{W3c10m3_To_LZCTF2025!_H@v3_Fun!} -->
